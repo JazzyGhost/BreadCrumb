@@ -10,7 +10,7 @@ Breadcrumb is not just another text editor, and it isn't a toy block-coder like 
 Core Features
 
 * **Interactive Structured Canvas:** Press `/` to open a context-aware toolkit. Drop in functions, variables, and logic loops as visual blocks. Fill in the interactive chips (`[Type] [Name] = [Value];`) to build code with zero syntax errors.
-* **The Dictionary Vault:** Build a reusable library of your own code. Breadcrumb silently tracks every variable, function, and callback you create, allowing you to instantly inject them anywhere in your project via a searchable right-hand inspector.
+* **The Dictionary Vault:** Build a reusable library of your own code. Breadcrumb silently tracks every variable, function, and callback you create, allowing you to instantly inject them anywhere in your project via a searchable right-hand inspector. (**WORK IN PROGRESS**)
 * **Dynamic Language Schemas:** Breadcrumb adapts to what you're writing. Opening a Python project loads a completely different set of blocks and rules than a C# project. 
 * **The "Project vs. Export" Paradigm:** Work visually in non-destructive `.crumb` JSON project files. When you're ready, hit **Export** and Breadcrumb's internal transpiler generates pristine, perfectly formatted raw code (e.g., `.py`, `.cs`) ready for production.
 * **100% Deterministic (Zero AI):** Under the hood, Breadcrumb relies entirely on hardcoded state machines and AST logic. There are no unpredictable LLMs or API calls—just fast, reliable, local code generation.
