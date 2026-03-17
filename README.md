@@ -1,5 +1,8 @@
 Breadcrumb
 
+<img width="1395" height="921" alt="Screenshot 2026-03-17 223459" src="https://github.com/user-attachments/assets/d28fa449-f55c-4727-a85e-a82a88dea7d9" />
+
+
 **A visual, structured code editor designed to eliminate blank-page anxiety and make programming effortless.**
 
 Breadcrumb is not just another text editor, and it isn't a toy block-coder like Scratch. It is a premium, desktop-native **Structured Editor** built around a dynamic Abstract Syntax Tree (AST). Instead of typing raw text and fighting syntax errors, developers build logic using an interactive, "fill-in-the-blanks" interface driven by strict, pre-scripted language schemas.
