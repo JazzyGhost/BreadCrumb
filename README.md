@@ -19,4 +19,5 @@ Core Features
 * **Native Desktop Performance:** Built on Tauri, Breadcrumb has full, unrestricted access to your local file system for seamless project management and lightning-fast local execution.
 
 The Vision
+
 Breadcrumb was built to prove that learning to code—and rapidly prototyping complex logic—doesn't have to start with staring at a blinking cursor on an intimidating black screen. By providing the boilerplate structure and forcing inputs through a color-coded validation system, Breadcrumb keeps your eyes exactly where they need to be: on the logic.
