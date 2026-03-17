@@ -14,7 +14,7 @@ Core Features
 * **Dynamic Language Schemas:** Breadcrumb adapts to what you're writing. Opening a Python project loads a completely different set of blocks and rules than a C# project. 
 * **The "Project vs. Export" Paradigm:** Work visually in non-destructive `.crumb` JSON project files. When you're ready, hit **Export** and Breadcrumb's internal transpiler generates pristine, perfectly formatted raw code (e.g., `.py`, `.cs`) ready for production.
 * **100% Deterministic (Zero AI):** Under the hood, Breadcrumb relies entirely on hardcoded state machines and AST logic. There are no unpredictable LLMs or API calls—just fast, reliable, local code generation.
-* **Native Desktop Performance:** Built on Tauri, Breadcrumb has full, unrestricted access to your local file system for seamless project management and lightning-fast local execution.
+* **Native Desktop Performance:** Built for directories/folders, Breadcrumb has access to your local file system for seamless project management and lightning-fast local execution.
 
 The Vision
 
