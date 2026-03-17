@@ -7,8 +7,6 @@ Breadcrumb
 
 Breadcrumb is not just another text editor, and it isn't a toy block-coder like Scratch. It is a premium, desktop-native **Structured Editor** built around a dynamic Abstract Syntax Tree (AST). Instead of typing raw text and fighting syntax errors, developers build logic using an interactive, "fill-in-the-blanks" interface driven by strict, pre-scripted language schemas.
 
-With an Apple-inspired, frosted-glass UI and a tactile workspace, Breadcrumb bridges the gap between visual scripting and professional programming.
-
 Core Features
 
 * **Interactive Structured Canvas:** Press `/` to open a context-aware toolkit. Drop in functions, variables, and logic loops as visual blocks. Fill in the interactive chips (`[Type] [Name] = [Value];`) to build code with zero syntax errors.
